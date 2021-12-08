@@ -1,0 +1,12 @@
+           CLASE DEL 10/11/2021
+
+Apuntes:
+
+Arreglos, se pueden modificar solo adentro de funciones o usando la memoria dinamica como forma de linkear
+
+memoria dinamica: un arreglo que puede cambiar de lugares sin problema
+
+memoria estatica: un arreglo que no cambia 
+
+
+
